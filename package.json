@@ -14,7 +14,8 @@
     "eslint",
     "algoan",
     "nodejs",
-    "eslintconfig"
+    "eslintconfig",
+    "eslint-config"
   ],
   "author": "ccoeurderoy",
   "license": "ISC",
